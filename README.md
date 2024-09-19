@@ -1,4 +1,4 @@
-# Jenkins-Zero-To-Hero
+# Jenkins
 
 ## Installation on EC2 Instance
 
